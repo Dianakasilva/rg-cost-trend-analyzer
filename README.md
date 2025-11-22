@@ -108,8 +108,6 @@ O agente sempre devolve:
 
 As imagens de evidência da implementação ficam em `docs/prints/`.
 
-> ⚠️ Lembre de subir os arquivos de imagem com estes nomes na pasta `docs/prints/` para os links funcionarem.
-
 ### 1. Projeto no Microsoft Foundry
 
 Tela de visão geral do projeto/hub do Foundry, com chave de API e endpoint:
@@ -127,7 +125,6 @@ Tela de implantação do modelo `gpt-5-mini`, mostrando:
 - Região `Brazil South`.
 
 ![Implantação do modelo gpt-5-mini](docs/prints/print-02-implantacao-gpt5mini.png)
-
 
 ---
 
@@ -163,6 +160,7 @@ Tela de edição do agente, com as instruções definindo:
 ### 6. Execução – Exemplo de AUMENTO de custo
 
 ![Execução com aumento de custo](docs/prints/print-06-execucao-aumento.png)
+
 
 
 ## 📁 Estrutura do repositório
