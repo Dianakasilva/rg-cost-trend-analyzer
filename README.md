@@ -12,7 +12,7 @@ O agente:
 - Explica o resultado em português, de forma clara para **FinOps**.
 
 > ✅ Projeto individual da disciplina, com tema livre.  
-> 📅 Prazo de entrega: **21/11/2025 às 23:59**.
+> 📅 Prazo de entrega: **23/11/2025 às 23:59**.
 
 ---
 
