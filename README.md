@@ -157,7 +157,7 @@ Tela de edição do agente, com as instruções definindo:
 
 ### 6. Execução – Exemplo de AUMENTO de custo
 
-![Execução com aumento de custo](docs/prints/print-06-execucao-aumento.png)
+![Execução com aumento de custo](docs/docs/prints/print-06-execucao-aumento.png)
 
 
 
