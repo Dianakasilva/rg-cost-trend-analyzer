@@ -110,7 +110,7 @@ As imagens de evidência da implementação ficam em `docs/prints/`.
 
 Tela de visão geral do projeto/hub do Foundry, com chave de API e endpoint:
 
-![Visão geral do projeto no Foundry](docs/prints/print-01-projeto-foundry.png)
+![Visão geral do projeto no Foundry](docs/docs/prints/print-01-projeto-foundry.png)
 
 ---
 
@@ -122,7 +122,7 @@ Tela de implantação do modelo `gpt-5-mini`, mostrando:
 - Tipo de implantação `Global Standard`;  
 - Região `Brazil South`.
 
-![Implantação do modelo gpt-5-mini](docs/prints/print-02-implantacao-gpt5mini.png)
+![Implantação do modelo gpt-5-mini](docs/docs/prints/print-02-implantacao-gpt5mini.png)
 
 ---
 
@@ -133,7 +133,7 @@ Tela de **Agentes** no Foundry, mostrando o agente:
 - Nome: `RG Cost Trend Analyzer`;  
 - Modelo: `gpt-5-mini`.
 
-![Lista de agentes com o RG Cost Trend Analyzer](docs/prints/print-03-lista-agentes.png)
+![Lista de agentes com o RG Cost Trend Analyzer](docs/docs/prints/print-03-lista-agentes.png)
 
 ---
 
@@ -145,13 +145,13 @@ Tela de edição do agente, com as instruções definindo:
 - Regras de classificação;  
 - Formato da resposta.
 
-![System prompt com a lógica de cálculo](docs/prints/print-04-system-prompt.png)
+![System prompt com a lógica de cálculo](docs/docs/prints/print-04-system-prompt.png)
 
 ---
 
 ### 5. Execução – Exemplo de REDUÇÃO de custo
 
-![Execução com redução de custo](docs/prints/print-05-execucao-reducao.png)
+![Execução com redução de custo](docs/docs/prints/print-05-execucao-reducao.png)
 
 ---
 
