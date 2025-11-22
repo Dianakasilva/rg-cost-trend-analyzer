@@ -118,8 +118,8 @@ rg-cost-trend-analyzer/
 │     ├─ print-04-system-prompt.png
 │     ├─ print-05-execucao-reducao.png
 │     └─ print-06-execucao-aumento.png
-└─ opcional/
-   └─ video-link.txt
+└─ 
+   
 
 
 
