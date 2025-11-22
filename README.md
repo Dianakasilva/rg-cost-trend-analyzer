@@ -59,7 +59,6 @@ Demonstrar um agente funcional no Microsoft Foundry que:
 - Variação: **≈ -3,05%**
 - Tendência: **REDUÇÃO**
 
-*(Ver print `docs/prints/print-05-execucao-reducao.png`.)*
 
 ### Exemplo 2 – Aumento de custo
 
@@ -75,7 +74,6 @@ Demonstrar um agente funcional no Microsoft Foundry que:
 - Variação: **+30%**
 - Tendência: **AUMENTO**
 
-*(Ver print `docs/prints/print-06-execucao-aumento.png`.)*
 
 ---
 
