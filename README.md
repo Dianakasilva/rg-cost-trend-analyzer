@@ -128,6 +128,7 @@ Tela de implantação do modelo `gpt-5-mini`, mostrando:
 
 ![Implantação do modelo gpt-5-mini](docs/prints/print-02-implantacao-gpt5mini.png)
 
+
 ---
 
 ### 3. Lista de agentes – RG Cost Trend Analyzer
