@@ -104,6 +104,66 @@ O agente sempre devolve:
 
 ---
 
+## 📸 Prints do agente em funcionamento
+
+As imagens de evidência da implementação ficam em `docs/prints/`.
+
+> ⚠️ Lembre de subir os arquivos de imagem com estes nomes na pasta `docs/prints/` para os links funcionarem.
+
+### 1. Projeto no Microsoft Foundry
+
+Tela de visão geral do projeto/hub do Foundry, com chave de API e endpoint:
+
+![Visão geral do projeto no Foundry](docs/prints/print-01-projeto-foundry.png)
+
+---
+
+### 2. Implantação do modelo `gpt-5-mini` (Global Standard, Brazil South)
+
+Tela de implantação do modelo `gpt-5-mini`, mostrando:
+
+- Nome da implantação;  
+- Tipo de implantação `Global Standard`;  
+- Região `Brazil South`.
+
+![Implantação do modelo gpt-5-mini](docs/prints/print-02-implantacao-gpt5mini.png)
+
+---
+
+### 3. Lista de agentes – RG Cost Trend Analyzer
+
+Tela de **Agentes** no Foundry, mostrando o agente:
+
+- Nome: `RG Cost Trend Analyzer`;  
+- Modelo: `gpt-5-mini`.
+
+![Lista de agentes com o RG Cost Trend Analyzer](docs/prints/print-03-lista-agentes.png)
+
+---
+
+### 4. Instruções (system prompt) com a lógica de cálculo
+
+Tela de edição do agente, com as instruções definindo:
+
+- Fórmulas de cálculo;  
+- Regras de classificação;  
+- Formato da resposta.
+
+![System prompt com a lógica de cálculo](docs/prints/print-04-system-prompt.png)
+
+---
+
+### 5. Execução – Exemplo de REDUÇÃO de custo
+
+![Execução com redução de custo](docs/prints/print-05-execucao-reducao.png)
+
+---
+
+### 6. Execução – Exemplo de AUMENTO de custo
+
+![Execução com aumento de custo](docs/prints/print-06-execucao-aumento.png)
+
+
 ## 📁 Estrutura do repositório
 
 ```text
